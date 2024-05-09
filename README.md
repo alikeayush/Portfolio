@@ -12,7 +12,7 @@ This portfolio website serves as a platform to highlight my expertise, projects,
 - **Contact Form:** Allow visitors to reach out to you through a contact form or provide alternative contact information.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
